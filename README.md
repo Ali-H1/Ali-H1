@@ -12,8 +12,6 @@
 
 - 🌱 I’m currently learning **vue.js and Artificial intelligence**
 
-- 💬 Ask me about **vue3**
-
 - 📫 reach me at **ali.haddadi154@gmail.com**
 
 - ⚡ Fun fact: **I'm here to learn**
